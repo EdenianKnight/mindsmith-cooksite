@@ -11,7 +11,7 @@
 }
 
 .description {
-    height: 150px;
+    height: 180px;
     width: 35%;
     margin: 30px auto 0 auto;
     background-color: rgba(250, 250, 250, 0.7);
@@ -37,3 +37,14 @@
     border: 5px inset white;
     border-radius: 25%;
 } */
+
+/* Sign-Up or Log in */
+
+.sign-up-or-log-in {
+    font-size: small;
+}
+
+.sign-up-or-log-in button{
+    height: 18px;
+    font-size: 12px;
+}
