@@ -50,7 +50,7 @@
 .SU button:hover {
     color: #00cc00;
     border: 2px solid #00cc00;
-    background-color: rgb(0, 0, 0);
+    background-color: white;
 }
 
 .SI button {
@@ -60,7 +60,7 @@
 .SI button:hover {
     color: #0866FF;
     border: 2px solid #0866FF;
-    background-color: rgb(0, 0, 0);
+    background-color: white;
 }
 
 /* Others */
