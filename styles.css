@@ -36,28 +36,29 @@
 
 /* SU-LI button */
 
-.SU-LI button {
+.SU-LI a {
     color: white;
+    text-decoration: none;
     border: 2px solid white;
     border-radius: 15px;
     padding: 5px;
 }
 
-.SU button{
+.SU a{
     background-color: #00cc00;
 }
 
-.SU button:hover {
+.SU a:hover {
     color: #00cc00;
     border: 2px solid #00cc00;
     background-color: white;
 }
 
-.SI button {
+.SI a {
     background-color: #0866FF;
 }
     
-.SI button:hover {
+.SI a:hover {
     color: #0866FF;
     border: 2px solid #0866FF;
     background-color: white;
