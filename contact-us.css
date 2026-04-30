@@ -1,0 +1,5 @@
+.input, textarea {
+    width: 100%;
+    border-color: rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+}
