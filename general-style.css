@@ -1,0 +1,45 @@
+/* This  styles.css contains things in general such as links, headings and other text so the 
+layout is the same accross multiple pages */
+
+/* LINKS */
+
+/* Use the .n (meaning normal) class for links that are normal so it won't affect if you
+are styling button links. Links without the class have no styling */
+
+.n {
+    color: rgb(248, 248, 154);
+    text-decoration: none;
+    
+}
+
+.n:hover {
+    color: rgb(232, 232, 8);
+    text-decoration: underline;
+}
+
+.n:active {
+    color: rgb(232, 177, 13);
+    text-decoration: underline;
+}
+
+/* FONTS */
+
+/* Headers and paragraphs are dedicated to specific fonts */
+
+/* Quicksand for Paragraphs (and links) */
+
+span, a, p { 
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* edu-nsw-act-cursive for headings */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Edu NSW ACT Cursive", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}

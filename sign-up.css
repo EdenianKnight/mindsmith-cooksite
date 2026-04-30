@@ -20,7 +20,7 @@ div.holder {
     width: 50%;
     text-align: center;
     border-radius: 20px;
-    background-color: rgba(100, 100, 100, 0.5);        
+    background-color: rgba(100, 100, 100, 0.8);        
 }
 
 label, button {
@@ -56,8 +56,13 @@ label, button {
     font-weight: 600;
 }
 
+.submit:hover {
+    background-color:  #05df05;
+    cursor: pointer;
+}
+
 .submit:active {
-    border: 2px inset  #66ff66;
+    border: 2px inset  #31b631;
     outline: 2px inset white;
 }
 

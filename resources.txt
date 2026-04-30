@@ -1,0 +1,13 @@
+IMAGES
+
+Banner image: https://unsplash.com/photos/a-plate-of-food-PqG32DYCTM8
+Sign-Up background image: https://unsplash.com/illustrations/collection-of-food-and-drink-doodles-on-a-beige-background-26bthed5thY
+
+Favicon: https://img.icons8.com/officel/80/chef-hat.png
+Favicon Attribution code: "<a target="_blank" href="https://icons8.com/icon/lbKAq3H5gTdJ/chef-hat">Chef Hat</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>"
+
+Place holder images: https://placehold.co/
+
+NOTE: THE IMAGES FOR THE RECIPE PAGE MAY HAVE NOT BEEN GOTTEN FROM AN IMAGE LIBRARY. SOME ARE FROM RANDOM WEBSITE'S OWN IMAGES.
+
+IMAGES MAY BE CHANGED SOON IDENTIFY THE SOURCE
