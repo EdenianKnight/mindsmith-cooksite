@@ -1,19 +1,17 @@
-/* .body{
-    background-image: url("images/57613474_kitchen_cute_doodle_vector_sticker_collection_2.jpg");
+body{
+    background-image: url(images/loginbackground.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-} */
+}
 
 
 .login{
-    width: 300px;
-    height: auto;
+    width: 350px;
     padding: 30px;
-    margin: 10% auto;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #f9f9f9;
+    margin: 50px auto;
+    border-radius: 20px;
+    background-color: rgba(100, 100, 100, 0.5);        
     text-align: center;
 }
 
