@@ -1,11 +1,24 @@
-.recipe-body, .recipe-body div {
+.recipe-body, .recipe-name, .recipe-text, .recipe-tips, .about-author {
     border: 1px solid black;
     border-radius: 20px;
     padding: 10px;
     margin: 10px;
 }
 
-/* .recipe-body div:hover {
-    border: 1px solid red;
-    background-color: grey;
-} */
+h2, h3 {
+    background-color: #83ff83;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 0;
+}
+
+/* Main sections */
+.recipe-body {
+    border: 2px solid black;
+    background-color: rgb(255, 255, 231);
+}
+
+.recipe-name, .recipe-text, .recipe-tips, .about-author {
+    background-color: rgb(255, 255, 219);
+    box-shadow: 5px 5px rgb(190, 190, 140);
+}
