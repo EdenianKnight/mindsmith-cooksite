@@ -29,9 +29,9 @@ body {
 
 /* Headers and paragraphs are dedicated to specific fonts */
 
-/* Quicksand for Paragraphs (and links) */
+/* Quicksand for Paragraphs, Lists and link) */
 
-span, a, p { 
+span, a, p, ul, ol { 
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
