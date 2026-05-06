@@ -24,7 +24,7 @@ h2, h3 {
 }
 
 .recipe-tips {
-    list-style-image: url('/images/tika.png');
+    list-style-image: url('/images/tips.png');
     list-style-type: dotted;
 }
 
