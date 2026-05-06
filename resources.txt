@@ -11,3 +11,5 @@ Place holder images: https://placehold.co/
 NOTE: THE IMAGES FOR THE RECIPE PAGE MAY HAVE NOT BEEN GOTTEN FROM AN IMAGE LIBRARY. SOME ARE FROM RANDOM WEBSITE'S OWN IMAGES.
 
 IMAGES MAY BE CHANGED SOON IDENTIFY THE SOURCE
+
+list-style-image (for recipe-template tips list): https://www.pngwing.com/en/free-png-zwixh/
