@@ -13,3 +13,4 @@ NOTE: THE IMAGES FOR THE RECIPE PAGE MAY HAVE NOT BEEN GOTTEN FROM AN IMAGE LIBR
 IMAGES MAY BE CHANGED SOON IDENTIFY THE SOURCE
 
 list-style-image (for recipe-template tips list): https://www.pngwing.com/en/free-png-zwixh/
+Recipe Avatar Image (for template): https://www.pngwing.com/en/free-png-zsdiw/
