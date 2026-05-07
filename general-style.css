@@ -52,7 +52,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .toolbar {
     text-align: right;
-    font-size: 30px;
+    background-color: rgba(200, 255, 200, 0.9);
+    border-radius: 20px;
+    width: 30%;
+    padding: 5px;
+    margin-left: auto;
 }
 
 .toolbar p {
@@ -60,10 +64,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .toolbar i {
-    color: black;
+    color: #00cc00;
+    font-size: 30px;
     cursor: pointer;
+
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px;
 }
 
 .toolbar i:hover {
-    color: lightskyblue;
+    color: #05df05;
+}
+
+.submit:active {
+   color: #31b631;
 }
