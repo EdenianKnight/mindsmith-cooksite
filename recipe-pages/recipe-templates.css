@@ -1,9 +1,15 @@
+body {
+    background-image: url('/images/recipe-background.png');
+    background-size: 200px;
+    background-repeat: repeat;
+}
+
 .recipe-body{
-    background-color: rgb(255, 255, 231);
+    background-color: rgba(255, 255, 231, 0.8);
     border: 1px solid black;
     border-radius: 20px;
     padding: 10px;
-    margin: 10px;
+    margin: 0 auto 100px auto;
 }
 
 h2, h3 {
@@ -27,7 +33,7 @@ h2, h3 {
     border: 1px solid black;
     border-radius: 20px;
     padding: 10px;
-    margin: 10px;
+    margin: 50px auto;
 }
 
 .recipe-tips {
