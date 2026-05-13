@@ -48,12 +48,18 @@ main {
     padding: 10px;
     text-align: center;
     margin: 20px;
-    width: 30%;
-    height: auto;
+    width: 25%;
+    height: 580px;  /* REF1: Specified Height is added to prevent variation. It was previously auto before branches of Align-fix and Hypertexter were merged. The Align-fix branch is to fix the card height variation problem.
+    See Ref2*/
 }
 
+.recipe p {
+    /* border: 2px solid black; */
+    height: 20%;/* REF2: Paragraphs should have a specified height to prevent variation of words (and even letters) so it won't affect the length of the recipe-card or otherwise */
+    font-size: medium; /* Medium was added to help prevent variant heights */
+}
 .recipe:hover{
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     box-shadow: 0px 0px 18px 6px rgba(100, 100, 100, 0.6);
     transition: 0.4s;
 }
